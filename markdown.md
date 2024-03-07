@@ -1,4 +1,4 @@
-# Header 1
+**_![images/Gardeniaflower.jpg](images/Gardeniaflower.jpg)_**# Header 1
 
 This is a quote:
 
